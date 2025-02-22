@@ -6,4 +6,4 @@ Focused on providing an intuitive user interface and smooth functionality.
 Technologies Used:
 HTML, CSS, JavaScript
 # see a live preview of this project
-# https://vercel.com/dhoblesakshi19-gmailcoms-projects/age-calculator
+# https://age-calculator-d8nr.vercel.app/
